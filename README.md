@@ -2,11 +2,6 @@
 <!--                  SMARTCART ANALYTICS                      -->
 <!-- ========================================================= -->
 
-<div align="center">
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/a/a9/Amazon_logo.svg" width="250">
-
-</div>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=F90A39,FF9900,146EB4&height=260&section=header&text=SmartCart%20Analytics&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Amazon%20E-Commerce%20Product%20Insights%20Dashboard&descAlignY=60"/>
 
 </div>
@@ -150,11 +145,9 @@ This project demonstrates the complete Data Science lifecycle—from raw data cl
 
 # 🖼 Project Banner
 
-> 📌 Replace this placeholder with your own project banner after creating it.
-
 <p align="center">
 
-<img src="assets/banner.png" width="100%">
+<img src="images/banner.png" width="100%">
 
 </p>
 
@@ -166,13 +159,12 @@ This project demonstrates the complete Data Science lifecycle—from raw data cl
 
 | Home Dashboard | Rating Analysis |
 |----------------|-----------------|
-| ![](assets/dashboard_home.png) | ![](assets/dashboard_rating.png) |
+| ![](images/dashboard_home.png) | ![](images/dashboard_rating.png) |
 
 | Price Analysis | Product Insights |
 |----------------|------------------|
-| ![](assets/dashboard_price.png) | ![](assets/dashboard_product.png) |
+| ![](images/dashboard_price.png) | ![](images/dashboard_product.png) |
 
----
 ---
 
 # 💻 Technology Stack
@@ -432,18 +424,9 @@ The dataset was explored using multiple visualization libraries to discover hidd
 
 <p align="center">
 
-<img src="assets/dashboard_home.png" width="90%">
+<img src="images/dashboard_home.png" width="90%">
 
 </p>
-
----
-
-<p align="center">
-
-<img src="assets/dashboard_analysis.png" width="90%">
-
-</p>
-
 ---
 
 # ✨ Dashboard Features
@@ -527,21 +510,11 @@ The dataset was explored using multiple visualization libraries to discover hidd
 
 ---
 
-# 📸 Sample Screenshots
+# 📸 EDA Preview
 
 <p align="center">
 
-<img src="assets/eda1.png" width="45%">
-<img src="assets/eda2.png" width="45%">
-
-</p>
-
----
-
-<p align="center">
-
-<img src="assets/eda3.png" width="45%">
-<img src="assets/eda4.png" width="45%">
+<img src="images/eda.png" width="90%">
 
 </p>
 
