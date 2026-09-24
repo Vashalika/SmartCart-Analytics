@@ -145,8 +145,6 @@ This project demonstrates the complete Data Science lifecycle—from raw data cl
 
 # 🖼 Project Banner
 
-> 📌 Replace this placeholder with your own project banner after creating it.
-
 <p align="center">
 
 <img src="images/banner.png" width="100%">
@@ -429,14 +427,6 @@ The dataset was explored using multiple visualization libraries to discover hidd
 <img src="images/dashboard_home.png" width="90%">
 
 </p>
-
----
-
-<p align="center">
-
-<img src="images/dashboard_analysis.png" width="90%">
-</p>
-
 ---
 
 # ✨ Dashboard Features
