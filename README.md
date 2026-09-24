@@ -2,11 +2,6 @@
 <!--                  SMARTCART ANALYTICS                      -->
 <!-- ========================================================= -->
 
-<div align="center">
-
-<img src="images/amazon_logo.png" width="250">
-
-</div>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=F90A39,FF9900,146EB4&height=260&section=header&text=SmartCart%20Analytics&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Amazon%20E-Commerce%20Product%20Insights%20Dashboard&descAlignY=60"/>
 
 </div>
